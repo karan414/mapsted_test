@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mapsted Test Case #8</string>
+    <string name="name">Karan Deopura</string>
+    <string name="purchase_cost">Purchase Costs:</string>
+    <string name="manufacture">Manufacturer:</string>
+    <string name="category">Category:</string>
+    <string name="country">Country:</string>
+    <string name="state">State:</string>
+    <string name="number_of_purchase">Number of Purchases:</string>
+    <string name="item">Item:</string>
+    <string name="most_total_purchase">Most Total Purchases:</string>
+    <string name="building">Building:</string>
+    <string name="building_placeholder">Building Name</string>
+    <string name="date_placeholder">[Today\'s Date]</string>
+</resources>
